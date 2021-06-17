@@ -8,7 +8,7 @@ Foram utilizadas as tecnologias HTML, CSS e Javascript.
 
 O objetivo do projeto foi consolidar os conhecimentos em Promises e requisições a API.
 
-Foi feita uma simulação de um carrinho de compras, onde os item foram criados dinamicamente após a requisição da API do **Mercado Livre**. Os itens podem ser adicionados à uma lista ao serem clicados, onde será feita uma nova requisição à API requisitando seu preço e alterando o valor final da compra. Além disso os itens podem ser removidos ao clicar na lista, e a lista pode ser limpa ao clicar no botão *esvaziar carrinho*. Por fim, a cada alteração da lista, a mesma é salva no navegador do usuário e será carregada novamente após atualização da página.
+Foi feita uma simulação de um carrinho de compras, onde os itens foram criados dinamicamente após a requisição da API do **Mercado Livre**. Os itens podem ser adicionados à uma lista ao serem clicados, onde será feita uma nova requisição à API requisitando seu preço e alterando o valor final da compra. Além disso os itens podem ser removidos ao clicar na lista, e a lista pode ser limpa ao clicar no botão *esvaziar carrinho*. Por fim, a cada alteração da lista, a mesma é salva no navegador do usuário e será carregada novamente após atualização da página.
 
 O projeto não foi refatorado após sua entrega (17/06/2021).
 ***
