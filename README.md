@@ -2,6 +2,8 @@
 
 ![project-shopping-cart](https://user-images.githubusercontent.com/82068881/122469958-e7bd0a00-cf93-11eb-81dd-6fcffecc78cc.png)
 ***
+Você pode acessar o site no ar [aqui]().
+
 Projeto feito como critério avaliativo na escola de programação **Trybe**.
 
 Foram utilizadas as tecnologias HTML, CSS e Javascript.
@@ -26,6 +28,6 @@ Os requisitos que compõem projeto são:
 
 :white_check_mark: Criar botão para limpar o carrinho de compras;
 
-:white_check_mark: Adiconar texto de carregamento enquanto espera requisições;
+:white_check_mark: Adicionar texto de carregamento enquanto espera requisições;
 
 
