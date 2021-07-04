@@ -2,7 +2,7 @@
 
 ![project-shopping-cart](https://user-images.githubusercontent.com/82068881/122469958-e7bd0a00-cf93-11eb-81dd-6fcffecc78cc.png)
 ***
-Você pode acessar o site no ar [aqui]().
+Você pode acessar o site no ar [aqui](https://kevin-ol.github.io/project-shopping-cart/).
 
 Projeto feito como critério avaliativo na escola de programação **Trybe**.
 
